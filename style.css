@@ -69,6 +69,18 @@ footer{
     color: #f9fafb;
 }
 
+@media only screen and (max-width: 600px) {
+    li{;
+    font-size: 0.5rem;
+}
+
+li span{
+    font-size: 2.5rem;
+
+}
+
+}
+
 
 
 
